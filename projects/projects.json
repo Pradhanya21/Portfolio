@@ -1,0 +1,84 @@
+[
+  
+  {
+    "name": "Opportunity Hub - MERN",
+    "desc": "Opportunity Hub is a full-stack job-seeking web application connecting job seekers with recruiters.",
+    "image": "",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Pradhanya21/OpportunityHub_Fullstack"
+    }
+  },
+  {
+    "name": "Chat Application - Java",
+    "desc": "Java-based chat application allows real-time communication between users with robust login and signup features.",
+    "image": "",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Pradhanya21/Chat-Application-Java"
+    }
+  },
+  {
+    "name": "Online Baking System - C",
+    "desc": "A secure and user-friendly online banking system for efficient management of transactions, accounts, and customer information.",
+    "image": "",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Pradhanya21/Online-Banking-System"
+    }
+  },
+  {
+    "name": "Stroke Prediction - ML",
+    "desc": "Predicting Brain Stroke risk using Machine Learning(ML) with various preprocessing and modeling techniques.",
+    "image": "",
+    "links": {
+      "view": "#",
+      "code": "hhttps://github.com/Pradhanya21/Stroke_Prediction"
+    }
+  },
+  {
+    "name": "News Aggregator - MERN",
+    "desc": "News Aggregator is a full-stack web application that consolidates news from multiple sources using APIs.",
+    "image": "",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Pradhanya21/News_aggregator"
+    }
+  },
+  {
+    "name": "Diabetic Prediction - Pyspark",
+    "desc": "Diabetes Prediction Using PySpark utilizes machine learning algorithms like Random Forest and Logistic Regression to predict diabetes risk.",
+    "image": "",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Pradhanya21/Diabetes-Prediction-Using-Pyspark"
+    }
+  },
+  {
+    "name": "CrytoCurrency Dashboard - PowerBi",
+    "desc": "Cryptocurrency Dashboard using Power BI offers real-time data visualization and insights into cryptocurrency trends.",
+    "image": "",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Pradhanya21/Cryptocurrency-Dashboard"
+    }
+  },
+  {
+    "name": "Smart Parking System - CV",
+    "desc": "The Smart Parking System uses digital image processing with OpenCV to detect and count empty and occupied parking spaces.",
+    "image": "",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/jigar-sable/React-Projects/tree/main/hulu-clone"
+    }
+  },
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/jigar-sable/Portfolio-Website"
+    }
+  }
+]
